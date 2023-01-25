@@ -616,7 +616,11 @@ footer .copyright {
     line-height: 25px;
 }
 
-/* Cart Page */
+/* Blog Page */
+
+#page-header.blog-header {
+    background-image: url(images/img/banner/b19.jpg);
+}
 
 /* Cart Page */
 
